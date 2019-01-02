@@ -1,0 +1,5 @@
+(executable
+  (name esydune)
+  (public_name esydune)
+  (libraries unix)
+)
